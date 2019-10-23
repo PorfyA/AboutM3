@@ -1,21 +1,13 @@
 # AboutM3
 **Adam Porfiris**
 
-Lehigh University Box 1071
-
-4 Farrington Square
-
-Bethlehem, PA 18015
-
-973-309-1910 | [adp223@lehigh.edu](mailto:adp223@lehigh.edu)
-
 **Education**
 
 **Lehigh University, Bethlehem, PA**                                                                             **May 2023**
 
 - College of Business and Economics
 
-**Seton Hall Preparatory School,**** West Orange, NJ **                                                         ** June 2019**
+**Seton Hall Preparatory School,** West Orange, NJ **                                                         **June 2019**
 
 - National Honors Society
 - Magna Cum Laude
